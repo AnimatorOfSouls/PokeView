@@ -1,2 +1,2 @@
 # PokéView
-Displays information about a requested pokémon in a nice format
+Displays information about a requested Pokémon in a nice format
